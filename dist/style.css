@@ -1,6 +1,17 @@
-h1{
+h1 {
+  font-family: "roboto", sans-serif;
   border-color: #d3e644;
-  border-style: dashed;
+}
+p {
+  font-family: "roboto", sans-serif;
+}
+li {
+  font-family: "roboto", sans-serif;
+  padding: 5px
+}
+
+img {
+  font-family: "roboto", sans-serif;
 }
 
 table {
